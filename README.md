@@ -24,4 +24,4 @@ b. Brightness - Controls the brightness of color
 
 c. Transparency - Control the transparency of the input filter. (0 - completely opaque, 100 - completely transparent)
 
-d. Threshold - Variable to segment eye lens from eyes. Adjust this to obtain a good segmentation of the eye lens.
+d. Threshold (Eyes Only)- Variable to segment eye lens from eyes. Adjust this to obtain a good segmentation of the eye lens.
