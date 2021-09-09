@@ -4,11 +4,12 @@
 
 
 ## Description
-A simple GUI for eyes and lips painting using Python, OpenCV and Dlib. This is a project assignment given by the OpenCV course, Computer Vision 2: Applications. (https://opencv.org/course-computer-vision-two/)
+A simple GUI for eyes and lips painting using Python, OpenCV and Dlib. This is a project assignment given by the OpenCV course, Computer Vision 2: Applications. (https://opencv.org/course-computer-vision-two/). This project is done using the Dlib library to detect face and facial landmarks, and using image processing methods and algorithm from OpenCV library to apply color filters on the detected points for eyes and lips.
+
+For detailed explanation of the code, please refer to my notebook ``` Project1-Virtual-Makeup.ipynb ```
 
 Please continue reading to understand how to use this software.
 
-For detailed explanation of the code, please refer to my notebook ``` Project1-Virtual-Makeup.ipynb ```
 
 ## Installation
 1. Install libraries:
