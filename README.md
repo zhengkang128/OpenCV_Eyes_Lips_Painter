@@ -4,7 +4,7 @@
 
 
 ## Description
-A simple GUI for eyes and lips painting using Python, OpenCV and Dlib. This is a project assignment given by the OpenCV course, Computer Vision 2: Applications. https://opencv.org/course-computer-vision-two/
+A simple GUI for eyes and lips painting using Python, OpenCV and Dlib. This is a project assignment given by the OpenCV course, Computer Vision 2: Applications. (https://opencv.org/course-computer-vision-two/)
 
 ## Installation
 1. Install libraries:
