@@ -21,7 +21,8 @@ Please continue reading to understand how to use this software.
 1. Put input images in the input folder.
 2. Run virtual_painter.py script ``` python3 virtual_painter.py ```
 3. You will be prompted to give an input image. Provide the filename of the image you want to use as input. (Or enter 0 to take a photo. An OpenCV webcam window will pop-up. Press 's' to take a photo to use as input.)
-4. Two windows of trackbars will appear for input parameters for lips and eyes respectively. You may control the trackbars until you obtain your desired output
+4. Two windows of trackbars will appear for input parameters for lips and eyes respectively. You may control the trackbars until you obtain your desired output.
+5. Press 's' to save image. The image will be saved in the output folder.
 
 ![Alt Text](https://raw.githubusercontent.com/zhengkang128/OpenCV_Eyes_Lips_Painter/main/etc/6.png)
 
